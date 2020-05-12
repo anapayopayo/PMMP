@@ -1,0 +1,5 @@
+as,ag,ar,epsilon,epsilon dir,gamma,gamma dir,actiam,actiamp,T,Comments
+0.95,0.95,0.95,1,0,1,0,F,F,T0,No assymetry
+0.95,0.95,0.95,0.95,0,1,0,F,F,T6,Assymetry in w
+0.95,0.95,0.95,1,0,0.95,0,F,F,T7,Assymetry in m
+0.95,0.95,0.95,0.9,0,1,0,F,F,T6,Assymetry in w
